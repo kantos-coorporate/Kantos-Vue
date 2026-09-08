@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # KantosPlace — Vue 3 + Vite
 
 Site da KantosPlace construído em **Vue 3** com **Vue Router** e **Vite**.
@@ -82,3 +83,7 @@ Quando o CEO enviar os links dos formulários, substitui os `mailto:` nos fichei
 - [Vue 3](https://vuejs.org/) — Composition API + `<script setup>`
 - [Vue Router 4](https://router.vuejs.org/) — SPA routing
 - [Vite 5](https://vitejs.dev/) — Build tool
+=======
+# Kantos-Vue
+SIte interativo a fim de os leads terem cotacto com os nosso serviços e produtos do agricultores enquanto o site ainda não esta totalmente funcional.
+>>>>>>> 7ba604c2cbd22d1b1b308a80d17fcbc81e2993bd
